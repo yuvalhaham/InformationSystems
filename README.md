@@ -1,2 +1,2 @@
 # InformationSystems
-test repo for information systems course
+try 1 project flytau
